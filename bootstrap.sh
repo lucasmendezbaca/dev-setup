@@ -88,7 +88,7 @@ install_nala
 install_basic_packages
 install_homebrew
 install_neovim
-install_nerdfont
+#install_nerdfont	# Wezterm ya trae por defecto una nerd font
 install_yazi
 install_zinit
 setup_dotfiles
